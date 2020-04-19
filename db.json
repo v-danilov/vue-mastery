@@ -1,0 +1,172 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 6704512,
+      "category": "nature",
+      "organizer": {
+        "id": "1",
+        "name": "Cool dev"
+      },
+      "title": "Hello event",
+      "description": "First created event ",
+      "location": "Here",
+      "date": "2020-04-02T12:53:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 5514807,
+      "category": "education",
+      "organizer": {
+        "id": "1",
+        "name": "Cool dev"
+      },
+      "title": "Degradate",
+      "description": "We gonna degradate totally",
+      "location": "Vacuum",
+      "date": "2020-04-02T13:15:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 345394,
+      "title": "Pool party",
+      "date": "Jan 1 2012",
+      "time": "02:00",
+      "location": "In my pool",
+      "description": "Let's have a pool party!!!",
+      "organizer": "My dog Josh",
+      "category": "lifestyle",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Cookie Master"
+        },
+        {
+          "id": "def456",
+          "name": "Bubble Gum"
+        },
+        {
+          "id": "ghi789",
+          "name": "System Error"
+        },
+        {
+          "id": "jkl101",
+          "name": "A cup of coffee"
+        }
+      ]
+    },
+    {
+      "id": 4586,
+      "title": "Trip to nowhere",
+      "date": "Sep 19 2018",
+      "time": "02:00",
+      "location": "Home",
+      "description": "Trip from my home to nowhere",
+      "organizer": "Void",
+      "category": "Existential crisis",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Dark matter"
+        }
+      ]
+    },
+    {
+      "id": 501782,
+      "title": "Printing",
+      "date": "May 7 1802",
+      "time": "13:25",
+      "location": "Printing room",
+      "description": "Printing some bool shit and waste a paper",
+      "organizer": "OFC ME!",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Printer Epson"
+        },
+        {
+          "id": "def456",
+          "name": "White Paper"
+        },
+        {
+          "id": "ghi789",
+          "name": "Color Inks"
+        }
+      ]
+    }
+  ]
+}
